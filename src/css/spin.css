@@ -1,0 +1,22 @@
+#spinsetHolder {
+  display: inline-block;
+  vertical-align: middle;
+}
+.hide {
+  display: none;
+}
+.show {
+  display: block;
+}
+img {
+  cursor: w-resize;
+}
+
+.overlay_image{
+    position: absolute;
+    top: 240px;
+    left: 120px;
+    width: 15px;
+    height: 15px;
+    cursor: pointer;
+}
